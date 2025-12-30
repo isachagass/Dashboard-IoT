@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://react.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200" alt="React Logo">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white" alt="React Version">
+  <img src="https://img.shields.io/badge/Status-Projeto%20de%20Estudo-blue" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</p>
+
 ## **Dashboard de IoT**
 
 Este projeto foi desenvolvido como uma tarefa de classe, com o objetivo de simular o controle de uma casa inteligente por meio de um dashboard interativo.

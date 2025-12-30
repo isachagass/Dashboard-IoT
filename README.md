@@ -2,13 +2,14 @@
   <a href="https://react.dev" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/facebook/react/main/fixtures/dom/public/react-logo.svg" 
-      width="300" 
-      alt="React Logo">
+      width="45" 
+      alt="React Logo"
+      style="vertical-align: middle;"
+    />
+    <span style="font-size: 36px; font-weight: 600; margin-left: 10px; vertical-align: middle;">
+      React
+    </span>
   </a>
-</p>
-
-<p align="center">
-  <strong style="font-size: 28px;">REACT</strong>
 </p>
 
 <p align="center">
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/Status-Projeto%20de%20Estudo-blue" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
+
 
 
 ## **Dashboard de IoT**
